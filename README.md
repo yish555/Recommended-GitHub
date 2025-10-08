@@ -12,3 +12,6 @@
 
 5. https://github.com/mordavid/NetworkHound
 \\NetworkHound - Active Directory Network Topology Analyzer
+
+6. https://github.com/microsoft/mcp-for-beginners
+\\ MCP Microsoft course
