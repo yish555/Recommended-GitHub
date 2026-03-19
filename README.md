@@ -15,3 +15,6 @@
 
 6. https://github.com/microsoft/mcp-for-beginners
 \\ MCP Microsoft course
+
+7. https://github.com/NVIDIA/NemoClaw
+\\ AI agents with division into roles and dashboard
